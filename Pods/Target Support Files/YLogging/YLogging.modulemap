@@ -1,0 +1,6 @@
+framework module YLogging {
+  umbrella header "YLogging-umbrella.h"
+
+  export *
+  module * { export * }
+}
